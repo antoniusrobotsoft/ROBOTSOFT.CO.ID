@@ -1,39 +1,24 @@
 # robotsoft.co.id
-Better Technology for a Better Life
+<br>
 
-https://www.robotsoft.co.id
+Robotsoft- Better Technology for a Better Life
+<br><br>
+_____________________________________________________
 
+<br><br>
+<a href="https://www.robotsoft.co.id" target=_blank>https://www.robotsoft.co.id</a>
 
-https://www.youtube.com/watch?v=co31wkG2K98&list=PLUgRv81-MoR9cBWx664b1EWtQfTEqpuyh
+<br>
+<br><br>
 
-Robotsoft - Better Technology for a Better Life
+<a href="https://www.youtube.com/robotsoft" target=_blank>https://www.youtube.com/robotsoft</a>
+<br>
+<a href="https://www.facebook.com/robotsoft" target=_blank>https://www.facebook.com/robotsoft</a>
+<br>
+<a href="https://www.linkedin.com/company/robotsoft-co-id" target=_blank>https://www.linkedin.com/company/robotsoft-co-id</a>
+<br>
+<a href="https://www.instagram.com/robotsoftid" target=_blank>https://www.instagram.com/robotsoftid</a>
+<br>
+<a href="https://twitter.com/robotsoftid" target=_blank>https://twitter.com/robotsoftid</a>
 
-Focus Industries : Technology & Electrical
-
-Services : 
-1. mechanical engineering installation
-  - FIDS
-  - AFAS
-  - CCTV
-  - Electrical Installation
-  - PABX & Phone System Installation
-  - Announcement System Installation
-  - Fire Alarm
-  - LAN & Wan Installation
-  - Master Clock System Installation
-  - Baggage Conveyor Installation
-  - flap barrier gate installation
-  - parking barrier installation
-  
-
-2. IOT Installation
-
-3. Solar Power System Installation
-  - on grid
-  - off grid
-  - solar street light
-  
- Products :
-
-1. IOT (launched)
-2. Solar Power System (launched)
+<br><br>
