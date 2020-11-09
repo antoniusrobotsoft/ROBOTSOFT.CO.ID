@@ -12,9 +12,11 @@ Robotsoft- Better Technology for a Better Life
   Robotsoft Brochure : <a href="https://github.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/blob/master/ROBOTSOFT/robotsoft-brochure.pdf" target=_blank>robotsoft-brochure.pdf</a>
  <br>
 _____________________________________________________
-<br>
+<br><br>
+<b>Website</b>
 <a href="https://www.robotsoft.co.id" target=_blank>https://www.robotsoft.co.id</a>
-
+<br><br>
+<b>Robotsoft on Social Media</b>
 <br><br>
 <a href="https://www.youtube.com/robotsoft" target=_blank>https://www.youtube.com/robotsoft</a>
 <br>
