@@ -2,18 +2,14 @@
 <br>
 Robotsoft- Better Technology for a Better Life
 <br>
-<center>
-  <br>
-  <video controls autoplay>
-    <source src="https://github.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/blob/master/ROBOTSOFT/Robotsoft%20-%20Better%20Technology%20for%20a%20Better%20Life.mp4?raw=true" type="video/mp4">
-  </video>
   <br>
   <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/Robotsoft.png">
   <br><br>
   <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/Robotsoft-Products.png">
   <br><br>
-  
-
+  <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/spirit.jpg">
+  <br><br>
+  Robotsoft Brochure : <a href="https://github.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/blob/master/ROBOTSOFT/robotsoft-brochure.pdf" target=_blank>robotsoft-brochure.pdf</a>
 _____________________________________________________
 <br>
 <a href="https://www.robotsoft.co.id" target=_blank>https://www.robotsoft.co.id</a>
