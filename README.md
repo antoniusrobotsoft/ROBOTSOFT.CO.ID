@@ -5,7 +5,7 @@ Robotsoft- Better Technology for a Better Life
 <a href="https://www.robotsoft.co.id" target=_blank>https://www.robotsoft.co.id</a>
 <br>
   <br>
-  <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/Robotsoft.png">
+  <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/header_facebook.jpg">
   <br><br>
   <img src="https://raw.githubusercontent.com/antoniusrobotsoft/ROBOTSOFT.CO.ID/master/ROBOTSOFT/Robotsoft-Products.png">
   <br><br>
